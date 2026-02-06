@@ -1,4 +1,19 @@
+# 🖥️ Virtualisation & Organisation – Proxmox VE
+
+> **Couche de virtualisation du home lab**
+>
+> Cette page décrit comment Proxmox est utilisé pour structurer,
+> isoler et sécuriser l’infrastructure avant toute configuration
+> réseau, Active Directory ou sécurité.
+
 ---
+
+## 🎯 Objectifs de cette couche
+
+- Isoler les environnements (serveurs, utilisateurs, DMZ)
+- Reproduire une architecture d’entreprise réaliste
+- Préparer les scénarios Red Team / Blue Team
+- Éviter tout impact sur l’environnement personnel
 
 ## 1. Organisation & Virtualisation (Proxmox)
 
@@ -18,4 +33,3 @@ Afin de ne pas impacter les services de production personnelle, j'ai créé un c
 
 <img width="222" height="163" alt="VM Inventory" src="https://github.com/user-attachments/assets/e02968d7-6082-45cd-9c9a-c3bdcfdb05d4" />
 
----
