@@ -14,8 +14,6 @@ La segmentation réseau permet de :
 - isoler les zones critiques (serveurs, utilisateurs, DMZ)
 - forcer le passage des flux via le pare-feu pfSense
 
----
-
 ## 2. Architecture Réseau & Segmentation
 
 Application du principe de **Défense en Profondeur** via une segmentation réseau stricte (vSwitchs).
